@@ -2,38 +2,28 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Karanbir Singh
     - name: Languages
-      value: English, German
+      value: English, Punjabi, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS, Computer Software Engineering
+      institution: San José State University, San José, USA
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: B.Tech, Computer Science & Engineering
+      institution: Punjab Technical University, Punjab, India
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Software Engineer
+      institution: Salesforce, USA
+      year: 2024 - Present
       description:
         - Description 1.
         - Description 2.
@@ -41,57 +31,60 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Engineering Manager
+      institution: TrueML, California, US
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Lead capacity planning and build 12-month roadmap for Retain Heartbeat (communication management decision engine), expanding team from 1 to 3 and improving feature development velocity by 100%
+        - Collaborate with Data Science team on machine learning models, decreasing client marketing expenses by 50% and increasing client click through rates by 100%-150%
+        - Partner with Data Science, Product Management, and Platform teams on company roadmap, delivering 100% of features and maintenance (campaign tools, migration within Q1 timelines)
+        - Spearhead development of inhouse A/B testing framework using Open Source platform (GrowthBook), eliminating use of 3rd party platform ($30K+ annual savings) and preventing corruption of model data while increasing features
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Staff Software Engineer, Tech Lead
+      institution: TrueML
+      year: 2021 - 2023
       description:
+        - Developed and maintained Retain Heartbeat to support multiple communication channels (Email, SMS, Voicemail), resulting in 10+ additional client integrations, growing monthly revenue by 5X, and achieving 90%+ client retention rate
+        - Collaborated with product team on roadmap and spearheaded multiple team projects to enhance Retain platform experience, scaling processing capabilities by 100X while achieving 99.99% uptime
+        - Mentored 5 senior/junior engineers and data scientists within data group to enhance domain expertise and architecture skills, improving developer productivity by 20% and contributing to 2 promotions
+        - Architected and deployed Infrastructure as code using AWS CDK and integration test suite for Retain Heartbeat, removing DevOps and QA dependencies and decreasing feature delivery timelines by 3+ weeks
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Senior Software Engineer
+      institution: TrueML
+      year: 2020 - 2021
+      description:
+        - Architected, developed, and deployed decision engine module Retain Heartbeat from scratch and deployed machine learning models into production, securing 4 enterprise users of product through cross sells and breaking six figures in monthly revenue for Retain product line
+        - Standardized onboarding process for Fortune 100 enterprise customers (banks, utilities, law firms, telecom, fintech), decreasing client onboarding from 4 weeks to 4 days
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Senior Software Engineer
+      institution: Lucid Motors, CA, USA
+      year: 2019 - 2020
+      description:
+        - Designed and developed radio app module for Lucid Air, enabling radio functionality for Lucid vehicles
+        - Customized Android Automotive and first person in company to port features directly to Lucid vehicle infotainment system, enabling application development on system (prior development on Google Pixel)
+    
+    - title: Software Engineer
+      institution: Poynt, CA, USA
+      year: 2018 - 2019
+      description:
+        - Presented technical features of Poynt systems accepting AliPay in collaboration with executive team to C-suite of AliPay, advancing partnerships with AliPay and leading to $100M in investment for Poynt
+        - Designed, developed, and maintained framework of PoyntOS and built integrations internal/third-party accessories, leading to compatibility with printers, cash drawers, scanners, and other devices
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2013
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Punjab Technical University Award for Young Engineers Innovators
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Retrieval Augmented Generation (RAG)
+    - title: Agents
+    - title: NLP (LSTMs, Transformers), Computer Vision (CNN, ViTs)
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Landscape Photography, Gardening, etc.
