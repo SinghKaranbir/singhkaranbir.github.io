@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -17,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
- I am a Senior Software Engineer at Salesforce, where I focus on backend technologies, AI, and time series analysis. With over seven years of experience in AI/ML engineering, distributed systems, and software development, I’ve had the privilege of leading high-performing teams and delivering impactful solutions across fintech, automotive, and other industries.
+I am a Senior Software Engineer at Salesforce, where I focus on backend technologies, AI, and time series analysis. With over seven years of experience in AI/ML engineering, distributed systems, and software development, I’ve had the privilege of leading high-performing teams and delivering impactful solutions across fintech, automotive, and other industries.
 
 Throughout my career, I’ve been passionate about driving innovation and creating systems that solve real-world problems. At TrueML, I managed a critical engineering team to deploy machine learning models in production, improving feature development velocity and client engagement. My time at Lucid Motors and Poynt allowed me to contribute to cutting-edge product capabilities, strengthen industry partnerships, and develop systems that enhanced both user experience and business outcomes.
 
