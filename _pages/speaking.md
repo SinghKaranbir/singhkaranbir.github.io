@@ -1,8 +1,11 @@
 ---
 layout: default
+permalink: /speaking/
 title: Speaking Engagements
 description: Explore Karanbir Singh's public speaking engagements on topics like AI, RAG, and more.
-permalink: /speaking/
+nav: true
+nav_order: 3
+
 ---
 
 # 📢 Speaking Engagements
