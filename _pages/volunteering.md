@@ -43,14 +43,13 @@ Reviewed technical manuscripts focused on **AI and healthcare innovations** for 
 ### BPB Publications
 8. **Google Associate Cloud Engineer Certification**
 
-
-
 ### 🎓 IEEE eLearning Courses
 1. **Introduction to MultiLayer Perceptrons (EDP088)**
 2. **Hands on Users Account and Access Control Management (EDP410)**
 3. **Major Commercial and Research Cloud Service Providers (EDP388)**
 4. **Cloud Computing: Introduction (EDP381)**
 
+### IEEE TryEngineering Stem Grant Reviewer
 ---
 
 Feel free to reach out if you'd like to collaborate or need support on similar activities! 🌟

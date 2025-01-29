@@ -16,14 +16,26 @@ Welcome to my speaking portfolio! Below is a curated list of my speaking engagem
 
 ## Upcoming Talks
 
-### **IEEE PDGC 2024 Conference**  
-**Topic:** Efficient Resource Management of Kubernetes Pods using Artificial Intelligence  
-**Date:** December 18-20, 2024  
-**Description:** Co-presenting insights from our paper, covering AI-driven optimizations for Kubernetes.
+### **AIM-2025 Conference**
+**Topic:** Evaluating a ReAct-Based Agent for Agricultural Planning
+**Session:** Artificial General Intelligence (AGI)
+**Format:** Oral Presentation
+**Description:** Presenting research on the application of ReAct-based agents for decision-making in agricultural planning, exploring how AI can optimize resource allocation and crop planning strategies and its challenges 
 
 ---
 
 ## 🎙️ Talks
+
+### **Data Neighbor Podcast**
+**Episode Title:** Exploring RAG and AI Innovations with Karanbir Singh
+**Platform:** YouTube
+**Date:** January 9, 2025
+**Description:** Featured on the Data Neighbor Podcast with Sravya Madipalli and Hai Guan, discussing the future of Retrieval-Augmented Generation (RAG), AI applications,
+
+### **IEEE PDGC 2024 Conference**  
+**Topic:** Efficient Resource Management of Kubernetes Pods using Artificial Intelligence  
+**Date:** December 19, 2024  
+**Description:** Co-presenting insights from our paper, covering AI-driven optimizations for Kubernetes.
 
 ### **Datathon 1.0**
 **Topic:** Panel discussion on Future of AI and addressing Ethics, Fairness in AI 
