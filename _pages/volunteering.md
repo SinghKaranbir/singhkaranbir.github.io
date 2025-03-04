@@ -44,9 +44,7 @@ Discover my contributions to the community through judging activities, peer revi
 
 ### Manning
 5. Deep Learning with PyTorch 2e
-
 6. ML Workloads with Kubernetes
-
 7. Time Series Forecasting Using Foundation Models
 
 ### BPB Publications
@@ -56,7 +54,8 @@ Discover my contributions to the community through judging activities, peer revi
 1. Introduction to MultiLayer Perceptrons (EDP088)
 2. Hands on Users Account and Access Control Management (EDP410)
 3. Major Commercial and Research Cloud Service Providers (EDP388)
-4. Cloud Computing: Introduction (EDP381)
+4. Cloud Computing Introduction (EDP381)
+
 ---
 
 Feel free to reach out if you'd like to collaborate or need support on similar activities! 🌟
